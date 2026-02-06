@@ -7,7 +7,7 @@ AI Engineer & Data Scientist specialized in **Generative AI, RAG, Document AI, a
 I design and deploy **end-to-end AI solutions**, from data ingestion and modeling to backend integration and production deployment.  
 I enjoy working on complex, ambiguous problems and building robust systems with strong business impact.
 
-📍 Based in Paris, France, Open to AI / ML opportunities in Europe
+📍 Based in Paris, France — Open to AI / ML opportunities in Europe
 
 ---
 
@@ -34,7 +34,7 @@ I enjoy working on complex, ambiguous problems and building robust systems with 
 
 ---
 
-### 💻 Software Engineering & Backend Development
+### 💻 Software Engineering & Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,fastapi,flask,django,python,java,unity,cs" />
 </p>
@@ -61,47 +61,47 @@ I enjoy working on complex, ambiguous problems and building robust systems with 
 
 ## 💼 Professional Experience
 
-### 🏦 Malakoff Humanis — Data Scientist
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/fr/8/8f/Malakoff_Humanis_logo.svg" height="40"/>
-</p>
+### 🏦 Malakoff Humanis — Data Scientist  
+<a href="https://www.malakoffhumanis.com/" target="_blank">
+  <img src="images/malakoff-humanis-vector-logo.svg" height="45"/>
+</a>
 
 - Designed and deployed end-to-end Document AI pipelines for insurance workflows  
 - Automated extraction of structured data from complex dental documents  
 - Built OCR pipelines with table detection, text recognition, and normalization  
 - Fine-tuned deep learning models for document understanding  
 - Led annotation workflows using active learning strategies  
-- Generated synthetic and LLM-based training data
+- Generated synthetic and LLM-based training data  
 
 **Tech:** PyTorch, YOLO, PaddleOCR, TrOCR, AWS, Dataiku, Label Studio, OpenAI API
 
 ---
 
-### 🏭 AI Inside Private — AI Engineer
-<p align="left">
-  <img src="https://media.licdn.com/dms/image/C4D0BAQFZ7c7zA5pQxg/company-logo_200_200/0/1631368755577" height="40"/>
-</p>
+### 🏭 AI Inside Private — AI Engineer  
+<a href="https://ai-inside.tech/" target="_blank">
+  <img src="images/AI-inside_0-1.png" height="45"/>
+</a>
 
 - Developed few-shot and one-shot learning models for industrial part recognition  
 - Implemented Siamese Networks for visual similarity learning  
 - Designed and deployed inference APIs  
 - Built web interfaces for model training and prediction  
-- Integrated ML pipelines into production systems
+- Integrated ML pipelines into production systems  
 
 **Tech:** PyTorch, OpenCV, Django REST, Vue.js
 
 ---
 
-### 🔬 CESI Lineact — VR Developer
-<p align="left">
-  <img src="https://www.cesi.fr/wp-content/uploads/2021/02/logo-cesi.png" height="40"/>
-</p>
+### 🔬 CESI Lineact — VR Developer  
+<a href="https://www.cesi.fr/" target="_blank">
+  <img src="images/cesi_lineact_Logo.svg" height="45"/>
+</a>
 
 - Developed a Virtual Reality application for dental anatomy learning  
 - Designed immersive and interactive training environments  
 - Implemented automated quiz generation for knowledge assessment  
 - Integrated AI-based content generation into learning workflows  
-- Collaborated with researchers and domain experts
+- Collaborated with researchers and domain experts  
 
 **Tech:** Unity, C#, VR SDKs, AI-based systems
 
@@ -145,7 +145,6 @@ I enjoy working on complex, ambiguous problems and building robust systems with 
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
-
 
 ---
 
