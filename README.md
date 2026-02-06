@@ -76,12 +76,10 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
 
 ## 💼 Professional Experience
 
-## 💼 Professional Experience
-
 ### 🏦 Malakoff Humanis — Data Scientist
 <p align="left">
   <a href="https://www.malakoffhumanis.com/" target="_blank">
-    <img src="./images/malakoff-humanis-vector-logo.svg" height="65"/>
+    <img src="./images/malakoff-humanis-vector-logo.svg" height="80"/>
   </a>
 </p>
 
@@ -97,7 +95,7 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
 ### 🏭 AI Inside Private — AI Engineer
 <p align="left">
   <a href="https://www.ai-inside-private.com/" target="_blank">
-    <img src="./images/AI-inside_0-1.png" height="42"/>
+    <img src="./images/AI-inside_0-1.png" height="38"/>
   </a>
 </p>
 
@@ -112,7 +110,7 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
 ### 🔬 CESI Lineact — VR Developer
 <p align="left">
   <a href="https://www.cesi.fr/" target="_blank">
-    <img src="./images/cesi_lineact_Logo.svg" height="42"/>
+    <img src="./images/cesi_lineact_Logo.svg" height="38"/>
   </a>
 </p>
 
@@ -129,7 +127,7 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
 ### Université Paris Cité — MSc Machine Learning for Data Science
 <p align="left">
   <a href="https://u-paris.fr/" target="_blank">
-    <img src="./images/paris_cite.png" height="55"/>
+    <img src="./images/paris_cite.png" height="46"/>
   </a>
 </p>
 
@@ -138,7 +136,7 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
 ### Arts et Métiers / ENSAM — Engineering Degree (AI & Data Science)
 <p align="left">
   <a href="https://artsetmetiers.fr/" target="_blank">
-    <img src="./images/LOGO_ENSAM.png" height="50"/>
+    <img src="./images/LOGO_ENSAM.png" height="40"/>
   </a>
 </p>
 
