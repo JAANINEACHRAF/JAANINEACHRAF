@@ -68,7 +68,7 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
 
 ## 💼 Professional Experience
 
-### <a href="https://www.malakoffhumanis.com/" target="_blank"><img src="./images/malakoff-humanis-vector-logo.svg" height="26" alt="Malakoff Humanis"/> <strong>Malakoff Humanis</strong></a> — Data Scientist
+### <a href="https://www.malakoffhumanis.com/" target="_blank"><img src="./images/malakoff-humanis-vector-logo.svg" height="36" alt="Malakoff Humanis"/> <strong>Malakoff Humanis</strong></a> — Data Scientist
 - Designed and deployed end-to-end Document AI pipelines for insurance workflows  
 - Automated extraction of structured data from complex dental documents  
 - Built OCR pipelines with table detection, recognition, and normalization  
