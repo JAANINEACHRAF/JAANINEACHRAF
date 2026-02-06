@@ -76,9 +76,13 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
 
 ## 💼 Professional Experience
 
+## 💼 Professional Experience
+
 ### 🏦 Malakoff Humanis — Data Scientist
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/fr/8/8f/Malakoff_Humanis_logo.svg" height="40"/>
+  <a href="https://www.malakoffhumanis.com/" target="_blank">
+    <img src="./images/malakoff-humanis-vector-logo.svg" height="50"/>
+  </a>
 </p>
 
 - Designed and deployed end-to-end Document AI pipelines for insurance workflows  
@@ -92,7 +96,9 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
 
 ### 🏭 AI Inside Private — AI Engineer
 <p align="left">
-  <img src="https://media.licdn.com/dms/image/C4D0BAQFZ7c7zA5pQxg/company-logo_200_200/0/1631368755577" height="40"/>
+  <a href="https://www.ai-inside-private.com/" target="_blank">
+    <img src="./images/AI-inside_0-1.png" height="50"/>
+  </a>
 </p>
 
 - Developed few-shot and one-shot learning models for industrial recognition  
@@ -105,7 +111,9 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
 
 ### 🔬 CESI Lineact — VR Developer
 <p align="left">
-  <img src="https://www.cesi.fr/wp-content/uploads/2021/02/logo-cesi.png" height="40"/>
+  <a href="https://www.cesi.fr/" target="_blank">
+    <img src="./images/cesi_lineact_Logo.svg" height="50"/>
+  </a>
 </p>
 
 - Developed a Virtual Reality application for dental anatomy learning  
