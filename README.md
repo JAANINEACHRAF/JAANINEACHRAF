@@ -94,9 +94,9 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
 
 ## 🎓 Education
 
-### 🎓 <a href="https://u-paris.fr/" target="_blank"><img src="./images/paris_cite.png" height="22" alt="Université Paris Cité"/> <strong>Université Paris Cité</strong></a> — MSc Machine Learning for Data Science
+### <a href="https://u-paris.fr/" target="_blank"><img src="./images/paris_cite.png" height="22" alt="Université Paris Cité"/> <strong>Université Paris Cité</strong></a> — MSc Machine Learning for Data Science
 
-### 🎓 <a href="https://artsetmetiers.fr/" target="_blank"><img src="./images/LOGO_ENSAM.png" height="22" alt="Arts et Métiers / ENSAM"/> <strong>Arts et Métiers / ENSAM</strong></a> — Engineering Degree (AI & Data Science)
+### <a href="https://artsetmetiers.fr/" target="_blank"><img src="./images/LOGO_ENSAM.png" height="22" alt="Arts et Métiers / ENSAM"/> <strong>Arts et Métiers / ENSAM</strong></a> — Engineering Degree (AI & Data Science)
 
 ---
 
