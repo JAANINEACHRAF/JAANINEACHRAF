@@ -68,7 +68,7 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
 
 ## 💼 Professional Experience
 
-### 🏦 <a href="https://www.malakoffhumanis.com/" target="_blank"><img src="./images/malakoff-humanis-vector-logo.svg" height="22" alt="Malakoff Humanis"/> <strong>Malakoff Humanis</strong></a> — Data Scientist
+### <a href="https://www.malakoffhumanis.com/" target="_blank"><img src="./images/malakoff-humanis-vector-logo.svg" height="26" alt="Malakoff Humanis"/> <strong>Malakoff Humanis</strong></a> — Data Scientist
 - Designed and deployed end-to-end Document AI pipelines for insurance workflows  
 - Automated extraction of structured data from complex dental documents  
 - Built OCR pipelines with table detection, recognition, and normalization  
@@ -76,14 +76,14 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
 - Led annotation workflows using active learning  
 - Generated synthetic and LLM-based training data  
 
-### 🏭 <a href="https://www.ai-inside-private.com/" target="_blank"><img src="./images/AI-inside_0-1.png" height="22" alt="AI Inside Private"/> <strong>AI Inside Private</strong></a> — AI Engineer
+### <a href="https://www.ai-inside-private.com/" target="_blank"><img src="./images/AI-inside_0-1.png" height="26" alt="AI Inside Private"/> <strong>AI Inside Private</strong></a> — AI Engineer
 - Developed few-shot and one-shot learning models for industrial recognition  
 - Implemented Siamese Networks for visual similarity  
 - Designed and deployed inference APIs  
 - Built model training and prediction interfaces  
 - Integrated ML pipelines into production systems  
 
-### 🔬 <a href="https://www.cesi.fr/" target="_blank"><img src="./images/cesi_lineact_Logo.svg" height="22" alt="CESI Lineact"/> <strong>CESI Lineact</strong></a> — VR Developer
+### <a href="https://www.cesi.fr/" target="_blank"><img src="./images/cesi_lineact_Logo.svg" height="26" alt="CESI Lineact"/> <strong>CESI Lineact</strong></a> — VR Developer
 - Developed a Virtual Reality application for dental anatomy learning  
 - Designed immersive and interactive environments  
 - Implemented automated quiz generation  
