@@ -23,8 +23,6 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 </p>
 
----
-
 ### 🧠 Generative AI, RAG & LLM Systems
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat"/>
@@ -34,8 +32,6 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
   <img src="https://img.shields.io/badge/FAISS-009688?style=flat"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
 </p>
-
----
 
 ### 💻 Software Engineering & Backend
 <p align="left">
@@ -51,8 +47,6 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
 </p>
 
----
-
 ### 🗄️ Databases & Search
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
@@ -61,8 +55,6 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/>
 </p>
-
----
 
 ### ☁️ Cloud, MLOps & Monitoring
 <p align="left">
@@ -76,13 +68,7 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
 
 ## 💼 Professional Experience
 
-### 🏦 Malakoff Humanis — Data Scientist
-<p align="left">
-  <a href="https://www.malakoffhumanis.com/" target="_blank">
-    <img src="./images/malakoff-humanis-vector-logo.svg" height="80"/>
-  </a>
-</p>
-
+### 🏦 <a href="https://www.malakoffhumanis.com/" target="_blank"><img src="./images/malakoff-humanis-vector-logo.svg" height="22" alt="Malakoff Humanis"/> <strong>Malakoff Humanis</strong></a> — Data Scientist
 - Designed and deployed end-to-end Document AI pipelines for insurance workflows  
 - Automated extraction of structured data from complex dental documents  
 - Built OCR pipelines with table detection, recognition, and normalization  
@@ -90,30 +76,14 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
 - Led annotation workflows using active learning  
 - Generated synthetic and LLM-based training data  
 
----
-
-### 🏭 AI Inside Private — AI Engineer
-<p align="left">
-  <a href="https://www.ai-inside-private.com/" target="_blank">
-    <img src="./images/AI-inside_0-1.png" height="38"/>
-  </a>
-</p>
-
+### 🏭 <a href="https://www.ai-inside-private.com/" target="_blank"><img src="./images/AI-inside_0-1.png" height="22" alt="AI Inside Private"/> <strong>AI Inside Private</strong></a> — AI Engineer
 - Developed few-shot and one-shot learning models for industrial recognition  
 - Implemented Siamese Networks for visual similarity  
 - Designed and deployed inference APIs  
 - Built model training and prediction interfaces  
 - Integrated ML pipelines into production systems  
 
----
-
-### 🔬 CESI Lineact — VR Developer
-<p align="left">
-  <a href="https://www.cesi.fr/" target="_blank">
-    <img src="./images/cesi_lineact_Logo.svg" height="38"/>
-  </a>
-</p>
-
+### 🔬 <a href="https://www.cesi.fr/" target="_blank"><img src="./images/cesi_lineact_Logo.svg" height="22" alt="CESI Lineact"/> <strong>CESI Lineact</strong></a> — VR Developer
 - Developed a Virtual Reality application for dental anatomy learning  
 - Designed immersive and interactive environments  
 - Implemented automated quiz generation  
@@ -124,21 +94,9 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
 
 ## 🎓 Education
 
-### Université Paris Cité — MSc Machine Learning for Data Science
-<p align="left">
-  <a href="https://u-paris.fr/" target="_blank">
-    <img src="./images/paris_cite.png" height="46"/>
-  </a>
-</p>
+### 🎓 <a href="https://u-paris.fr/" target="_blank"><img src="./images/paris_cite.png" height="22" alt="Université Paris Cité"/> <strong>Université Paris Cité</strong></a> — MSc Machine Learning for Data Science
 
----
-
-### Arts et Métiers / ENSAM — Engineering Degree (AI & Data Science)
-<p align="left">
-  <a href="https://artsetmetiers.fr/" target="_blank">
-    <img src="./images/LOGO_ENSAM.png" height="40"/>
-  </a>
-</p>
+### 🎓 <a href="https://artsetmetiers.fr/" target="_blank"><img src="./images/LOGO_ENSAM.png" height="22" alt="Arts et Métiers / ENSAM"/> <strong>Arts et Métiers / ENSAM</strong></a> — Engineering Degree (AI & Data Science)
 
 ---
 
@@ -148,7 +106,6 @@ I enjoy solving complex problems and building scalable, business-oriented AI sys
   <a href="https://www.linkedin.com/in/achraf-jaanine/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:jaanineachraf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
