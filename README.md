@@ -123,7 +123,7 @@ My favourite bug so far: the ingestion layer was silently deduplicating document
 <table>
 <tr>
 <td width="50%" valign="top">
-<div align="center"><a href="https://www.malakoffhumanis.com/"><img src="./images/malakoff-humanis-vector-logo.svg" height="80"/></a></div>
+<div align="center"><a href="https://www.malakoffhumanis.com/"><img src="./images/malakoff-humanis-vector-logo.svg" height="65"/></a></div>
 <b>Document AI for insurance</b>
 <ul>
 <li>Automated extraction from dental quotes to estimate a patient's out-of-pocket cost</li>
@@ -134,7 +134,7 @@ My favourite bug so far: the ingestion layer was silently deduplicating document
 </ul>
 </td>
 <td width="50%" valign="top">
-<div align="center"><img src="./images/OCP_Group.svg" height="60"/></div>
+<div align="center"><img src="./images/OCP_Group.svg" height="65"/></div>
 <b>Real-time PPE detection</b>
 <ul>
 <li>Helmets, vests and people detected on live plant video for HSE compliance</li>
@@ -156,7 +156,7 @@ My favourite bug so far: the ingestion layer was silently deduplicating document
 </ul>
 </td>
 <td width="50%" valign="top">
-<div align="center"><a href="https://www.ai-inside-private.com/"><img src="./images/AI-inside_0-1.png" height="52"/></a></div>
+<div align="center"><a href="https://www.ai-inside-private.com/"><img src="./images/AI-inside_0-1.png" height="55"/></a></div>
 <b>Industrial part recognition</b>
 <ul>
 <li>Computer vision platform identifying unlabeled mechanical parts on a production line</li>
