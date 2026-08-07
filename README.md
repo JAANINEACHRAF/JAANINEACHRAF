@@ -122,49 +122,48 @@ My favourite bug so far: the ingestion layer was silently deduplicating document
 
 <table>
 <tr>
-<td width="25%" align="center" valign="top">
-<a href="https://www.malakoffhumanis.com/"><img src="./images/malakoff-humanis-vector-logo.svg" height="62"/></a>
-<br/><br/>
+<td width="50%" valign="top">
+<div align="center"><a href="https://www.malakoffhumanis.com/"><img src="./images/malakoff-humanis-vector-logo.svg" height="80"/></a></div>
 <b>Document AI for insurance</b>
-<br/>
-<sub>Automated extraction of dental quotes<br/>to estimate a patient's out-of-pocket<br/>cost. Table detection, OCR and layout<br/>understanding, then structured output.</sub>
-<br/><br/>
-<b>Fine-tuned DANIEL and other<br/>end-to-end document models<br/>on AWS SageMaker</b>
-<br/>
-<sub>dataset built from scratch: synthetic<br/>generation + active learning<br/>full estimate in 23 s</sub>
+<ul>
+<li>Automated extraction from dental quotes to estimate a patient's out-of-pocket cost</li>
+<li>Sequential pipeline: table detection, orientation correction, OCR, layout understanding, structured output</li>
+<li>Fine-tuned DANIEL and other end-to-end document models on AWS SageMaker</li>
+<li>Dataset built from scratch: synthetic generation and active-learning annotation</li>
+<li>Full estimate produced in 23 seconds</li>
+</ul>
 </td>
-<td width="25%" align="center" valign="top">
-<img src="./images/OCP_Group.svg" height="52"/>
-<br/><br/>
+<td width="50%" valign="top">
+<div align="center"><img src="./images/OCP_Group.svg" height="60"/></div>
 <b>Real-time PPE detection</b>
-<br/>
-<sub>Spotting missing helmets and vests<br/>on live plant video, for HSE<br/>compliance alerting.</sub>
-<br/><br/>
-<b>89% mAP@50 at 32 FPS</b>
-<br/>
-<sub>YOLOv5 fine-tuned on a custom<br/>2,500-image dataset</sub>
+<ul>
+<li>Helmets, vests and people detected on live plant video for HSE compliance</li>
+<li>YOLOv5 fine-tuned on a custom 2,500-image dataset, annotated and versioned on Roboflow</li>
+<li>Containerized FastAPI inference service with ONNX export, React dashboard with live alerts</li>
+<li>89% mAP@50 at 32 FPS on a single GPU</li>
+</ul>
 </td>
-<td width="25%" align="center" valign="top">
-<a href="https://www.cesi.fr/"><img src="./images/cesi_lineact_Logo.svg" height="52"/></a>
-<br/><br/>
-<b>Multimodal RAG + VR</b>
-<br/>
-<sub>Course assistant answering over PDFs<br/>including their tables and figures,<br/>plus a VR anatomy simulation.</sub>
-<br/><br/>
-<b>Serverless on ECS Fargate</b>
-<br/>
-<sub>event-driven ingestion: each new<br/>PDF triggers Lambda and lands<br/>in the index on its own</sub>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div align="center"><a href="https://www.cesi.fr/"><img src="./images/cesi_lineact_Logo.svg" height="60"/></a></div>
+<b>Multimodal RAG assistant + VR simulation</b>
+<ul>
+<li>RAG assistant answering over course PDFs, including their tables and figures</li>
+<li>Async FastAPI REST API, Chainlit interface, Qdrant vector store</li>
+<li>Serverless on AWS ECS Fargate, each new PDF triggers its own ingestion through Lambda</li>
+<li>VR dental anatomy simulation (Unity, C#) with LLM-generated quizzes synced to Moodle</li>
+</ul>
 </td>
-<td width="25%" align="center" valign="top">
-<a href="https://www.ai-inside-private.com/"><img src="./images/AI-inside_0-1.png" height="46"/></a>
-<br/><br/>
+<td width="50%" valign="top">
+<div align="center"><a href="https://www.ai-inside-private.com/"><img src="./images/AI-inside_0-1.png" height="52"/></a></div>
 <b>Industrial part recognition</b>
-<br/>
-<sub>Computer vision platform identifying<br/>unlabeled mechanical parts on a<br/>production line. New parts had to be<br/>recognized from very few examples,<br/>where classic classification would<br/>have needed large annotated volumes.</sub>
-<br/><br/>
-<b>One reference image is enough<br/>to add a new part</b>
-<br/>
-<sub>Siamese network, contrastive and<br/>triplet loss, 72 images augmented<br/>to 400+, Basler GigE camera</sub>
+<ul>
+<li>Computer vision platform identifying unlabeled mechanical parts on a production line</li>
+<li>New parts had to be recognized from very few examples, where classic classification would have needed large annotated volumes</li>
+<li>Siamese network trained with contrastive and triplet loss, one reference image is enough to add a part</li>
+<li>72 images augmented to 400+, fed by a Basler GigE industrial camera</li>
+</ul>
 </td>
 </tr>
 </table>
