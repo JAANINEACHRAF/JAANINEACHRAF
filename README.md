@@ -123,7 +123,7 @@ My favourite bug so far: the ingestion layer was silently deduplicating document
 <table>
 <tr>
 <td width="50%" valign="top">
-<div align="center"><a href="https://www.malakoffhumanis.com/"><img src="./images/malakoff-humanis-vector-logo.svg" height="65"/></a></div>
+<div align="center"><a href="https://www.malakoffhumanis.com/"><img src="./images/malakoff-humanis-vector-logo.svg" height="40"/></a></div>
 <b>Document AI for insurance</b>
 <ul>
 <li>Automated extraction from dental quotes to estimate a patient's out-of-pocket cost</li>
@@ -134,7 +134,7 @@ My favourite bug so far: the ingestion layer was silently deduplicating document
 </ul>
 </td>
 <td width="50%" valign="top">
-<div align="center"><img src="./images/OCP_Group.svg" height="65"/></div>
+<div align="center"><img src="./images/OCP_Group.svg" height="60"/></div>
 <b>Real-time PPE detection</b>
 <ul>
 <li>Helmets, vests and people detected on live plant video for HSE compliance</li>
@@ -146,7 +146,7 @@ My favourite bug so far: the ingestion layer was silently deduplicating document
 </tr>
 <tr>
 <td width="50%" valign="top">
-<div align="center"><a href="https://www.cesi.fr/"><img src="./images/cesi_lineact_Logo.svg" height="60"/></a></div>
+<div align="center"><a href="https://www.cesi.fr/"><img src="./images/cesi_lineact_Logo.svg" height="55"/></a></div>
 <b>Multimodal RAG assistant + VR simulation</b>
 <ul>
 <li>RAG assistant answering over course PDFs, including their tables and figures</li>
