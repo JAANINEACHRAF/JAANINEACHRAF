@@ -115,48 +115,56 @@ My favourite bug so far: the ingestion layer was silently deduplicating document
 
 | Project | What it is | Signal |
 |---|---|---|
-| **[groovemind](https://github.com/JAANINEACHRAF/GrooveMind)** | Music recommendation on CLAP audio embeddings | Multimodal embeddings, end to end |
-| **company-brief-agents** *(private)* | Multi-agent company intelligence briefs, LangGraph | Agent orchestration in practice |
+| **[groovemind](https://github.com/JAANINEACHRAF/GrooveMind)** | Music recommendation from the audio itself rather than metadata, using CLAP embeddings and similarity search | Multimodal embeddings, from raw audio to ranked results |
+| **company-brief-agents** *(private)* | LangGraph agents that research a company and return a structured intelligence brief | Agent orchestration, tool use, structured output |
 
 ## 🧪 Also shipped
 
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
-<a href="https://www.malakoffhumanis.com/"><img src="./images/malakoff-humanis-vector-logo.svg" height="48"/></a>
+<a href="https://www.malakoffhumanis.com/"><img src="./images/malakoff-humanis-vector-logo.svg" height="62"/></a>
 <br/><br/>
-<b>Document AI, insurance</b>
+<b>Document AI for insurance</b>
 <br/>
-<sub>Dental quote extraction<br/>YOLO + LayoutLM + OCR</sub>
+<sub>Automated extraction of dental quotes<br/>to estimate a patient's out-of-pocket<br/>cost. Table detection, OCR and layout<br/>understanding, then structured output.</sub>
 <br/><br/>
-<b>full estimate in 23 s</b>
+<b>Fine-tuned DANIEL and other<br/>end-to-end document models<br/>on AWS SageMaker</b>
+<br/>
+<sub>dataset built from scratch: synthetic<br/>generation + active learning<br/>full estimate in 23 s</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img src="./images/OCP_Group.svg" height="48"/>
+<img src="./images/OCP_Group.svg" height="52"/>
 <br/><br/>
 <b>Real-time PPE detection</b>
 <br/>
-<sub>YOLOv5 on live video<br/>HSE compliance</sub>
+<sub>Spotting missing helmets and vests<br/>on live plant video, for HSE<br/>compliance alerting.</sub>
 <br/><br/>
 <b>89% mAP@50 at 32 FPS</b>
+<br/>
+<sub>YOLOv5 fine-tuned on a custom<br/>2,500-image dataset</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<a href="https://www.cesi.fr/"><img src="./images/cesi_lineact_Logo.svg" height="48"/></a>
+<a href="https://www.cesi.fr/"><img src="./images/cesi_lineact_Logo.svg" height="52"/></a>
 <br/><br/>
 <b>Multimodal RAG + VR</b>
 <br/>
-<sub>Serverless on ECS Fargate<br/>Chainlit interface</sub>
+<sub>Course assistant answering over PDFs<br/>including their tables and figures,<br/>plus a VR anatomy simulation.</sub>
 <br/><br/>
-<b>event-driven PDF ingestion</b>
+<b>Serverless on ECS Fargate</b>
+<br/>
+<sub>event-driven ingestion: each new<br/>PDF triggers Lambda and lands<br/>in the index on its own</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<a href="https://www.ai-inside-private.com/"><img src="./images/AI-inside_0-1.png" height="42"/></a>
+<a href="https://www.ai-inside-private.com/"><img src="./images/AI-inside_0-1.png" height="46"/></a>
 <br/><br/>
-<b>One-shot part recognition</b>
+<b>Industrial part recognition</b>
 <br/>
-<sub>Siamese Networks<br/>contrastive + triplet loss</sub>
+<sub>Computer vision platform identifying<br/>unlabeled mechanical parts on a<br/>production line. New parts had to be<br/>recognized from very few examples,<br/>where classic classification would<br/>have needed large annotated volumes.</sub>
 <br/><br/>
-<b>72 images augmented to 400+</b>
+<b>One reference image is enough<br/>to add a new part</b>
+<br/>
+<sub>Siamese network, contrastive and<br/>triplet loss, 72 images augmented<br/>to 400+, Basler GigE camera</sub>
 </td>
 </tr>
 </table>
